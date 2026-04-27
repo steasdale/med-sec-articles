@@ -3,7 +3,7 @@ title: L’empire génois au Moyen Âge
 author: Michel Balard
 xml-lang: "fr"
 type: article
-citation:
+citation: "Balard, Michel. “L’empire génois au Moyen Âge.” In Les empires: Antiquité et Moyen Âge. Analyse comparée, 181–98. Collection “Histoire.” Rennes: Presses universitaires de Rennes, 2008."
 status:
    - provisional
    - version 1.0
