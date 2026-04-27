@@ -3,7 +3,7 @@ title: Si tu non delinquiris. Conflictividad en torno a la esclavitud en la Barc
 author: Iván Armenteros Martínez
 xml-lang: "sp"
 type: article
-citation: Armenteros Martínez, Iván. “'Si tu non delinquiris’: conflictividad en torno a la esclavitud en la Barcelona tardomedieval.” Anuario de estudios medievales 38, no. 2 (2008): 969–1007.
+citation: "Armenteros Martínez, Iván. “'Si tu non delinquiris’: conflictividad en torno a la esclavitud en la Barcelona tardomedieval.” Anuario de estudios medievales 38, no. 2 (2008): 969–1007."
 status: incomplete
 ---
 
