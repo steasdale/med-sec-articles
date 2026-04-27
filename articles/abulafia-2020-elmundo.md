@@ -1,8 +1,8 @@
 ---
+title: El mundo de Joan de Torralba, un mercader del siglo XV
 author:
   - David Abulafia
   - María Dolores López Pérez
-title: El mundo de Joan de Torralba, un mercader del siglo XV
 xml-lang: sp
 citation: "David Abulafia and María Dolores López Pérez, “El mundo de Joan de Torralba, un mercader del siglo XV,” in *Mercados y espacios económicos en el siglo XV: el mundo del mercader Torralba*, ed. David Abulafia and María Dolores López Pérez, Mediterraneum (Barcelona: Universitat de Barcelona Edicions, 2020), 9–30."
 ---
